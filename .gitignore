@@ -2,8 +2,6 @@
 *.DS_Store
 *.idea
 *.yaml
-*.gradle
-.gradle
 
 HELP.md
 .gradle
