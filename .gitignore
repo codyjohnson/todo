@@ -1,3 +1,9 @@
+*.class
+*.DS_Store
+*.idea
+*.yaml
+*.gradle
+
 HELP.md
 .gradle
 build/
