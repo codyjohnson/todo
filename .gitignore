@@ -3,6 +3,7 @@
 *.idea
 *.yaml
 *.gradle
+.gradle
 
 HELP.md
 .gradle
