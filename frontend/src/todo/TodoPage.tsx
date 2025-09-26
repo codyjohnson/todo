@@ -5,7 +5,7 @@ export const TodoPage = () => {
     const [todos] = useState<Todo[]>([]);
 
     return (
-        <h2>My Todo Page</h2>
+            <h2>My Todo Page</h2>
     )
 }
 

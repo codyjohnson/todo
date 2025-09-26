@@ -8,7 +8,7 @@ export const TodoItem =({initialTodo}: TodoProps) => {
 
     return (
         <li>
-            <span className="">initialTodo</span>
+            <span className="">{todo.name}</span>
         </li>
     );
 }

@@ -19,7 +19,7 @@ function App() {
           count is {count}
         </button>
       </div>
-        <TodoPage/>
+        <TodoPage />
     </>
   );
 }
