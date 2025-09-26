@@ -1,4 +1,4 @@
-package com.bridge.example.todo;
+package com.bridge.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
